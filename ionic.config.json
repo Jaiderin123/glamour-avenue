@@ -1,0 +1,7 @@
+{
+  "name": "glamour-avenue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
