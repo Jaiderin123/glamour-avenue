@@ -2,6 +2,9 @@ Este es el proyecto de programación movil escenario 5 del Politecnico GranColom
 
 Para instalar este proyecto primero se debe de instalar Ionic en nuetro ambiente, por lo que debemos de ejecutar los sigueintes comandos en nuestra terminal de comandos para hacer efectiva la instalación:
 
+SI NO SE TIENE INSTALADO ANGULAR EN EL PC EJECUTAR PRIMERO ESTE COMANDO:
+$ npm install -g @angular/cli
+
 $ npm install -g @ionic/cli
 
 despues debemos de clonar nuestro repositorio con el siguiente comando:
