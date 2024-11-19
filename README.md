@@ -6,6 +6,8 @@ SI NO SE TIENE INSTALADO ANGULAR EN EL PC EJECUTAR PRIMERO ESTE COMANDO:
 $ npm install -g @angular/cli
 
 $ npm install -g @ionic/cli
+$ npm install ionicons
+
 
 despues debemos de clonar nuestro repositorio con el siguiente comando:
 
